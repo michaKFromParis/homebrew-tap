@@ -1,9 +1,9 @@
 class Sparks < Formula
   desc "Design, Build & Play Sparks applications"
   homepage "https://github.com/michaKFromParis/sparks"
-  url "https://github.com/michaKFromParis/sparks/releases/download/2.6.0/sparks-osx.tar.gz"
-  version "2.6.0"
-  sha256 "b75e38b6d1fe48e4020a3ddbd300811decd972c1f52aed5407a67f72d38a0f8c"
+  url "https://github.com/michaKFromParis/sparks/releases/download/v0.0.23/sparks-osx.tar.gz"
+  version "0.0.23"
+  sha256 "7c6a14b5c6cb461ccb11f48e00f248a29ba666e4ae6ce5d00c0e3e532be75c09"
 
   def install
     bin.install "sparks"
